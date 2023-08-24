@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'first-app';
+
+  parent_message: string = 'I am a message from the app component'
 }
